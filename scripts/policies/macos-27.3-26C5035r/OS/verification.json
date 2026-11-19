@@ -4,7 +4,7 @@
   "image_sha256": "40d8282eb8650da9b4d7437a981764c48d47ee4bdc5b8b362248f25ecbce0e70",
   "volume_uuid": "84581E99-85BE-4957-AC53-2947E887B3E4",
   "generation": 1,
-  "trusted_key_sha256": "896b32469a0214eae0b6384e100a6f9734503dce6816371988d02f2690dfe4fd",
+  "trusted_key_sha256": "3c8b9b848748fe307e424153c0c663ed1bd5fa0e17cc6a015966612488ce2775",
   "real_c_signature_and_block_verification": true,
   "original_image_modified": false,
   "host_only": true,
